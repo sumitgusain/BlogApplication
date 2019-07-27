@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+.row{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.ng-valid[required], .ng-valid.required  {
+    border-left: 5px solid #42A948; /* green */
+  }
+  
+  .ng-invalid:not(form)  {
+    border-left: 5px solid #a94442; /* red */
+  }

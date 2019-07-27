@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+.header{
+    background-color: #343a40;
+    padding: 30px 30px;
+    font-size: 30px;
+    cursor: pointer;
+    display: block;
+    margin-bottom: 2px;
+    font-family: 'Josefin Sans', sans-serif;
+    list-style: none;
+}
+.collapse ul li{
+    cursor: pointer;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+p{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
